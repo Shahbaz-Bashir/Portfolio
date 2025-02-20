@@ -59,7 +59,7 @@ export default function Hero() {
               </span>
             </div>
             <p className="text-muted-foreground text-lg mb-8">
-            Building scalable and seamless web solutions with expertise in frontend and backend development
+            Building scalable and seamless web solutions with expertise in frontend and backend development very soon
             </p>
             <div className="flex gap-4">
               <Button size="lg" onClick={scrollToProjects}>View My Work</Button>
