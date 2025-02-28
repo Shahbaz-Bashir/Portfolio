@@ -88,9 +88,9 @@ export default function Hero() {
               className="relative z-10"
             >
               <Image
-                width={1280}
-                height={768}
-                src="/image.jpg"
+                width={600}
+                height={600}
+                src="/img.sh.JPG"
                 alt="Profile"
                 className="rounded-3xl shadow-3xl w-full max-w-md mx-auto"
               />

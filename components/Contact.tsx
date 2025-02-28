@@ -59,10 +59,12 @@ export default function Contact() {
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
                     >
                       <Mail className="h-5 w-5" />
-                      mfahadjbr@gmail.com
+                      shahbaz.bashir.nbt@gmail.com
+
+
                     </a>
                     <a
-                      href="https://github.com/"
+                      href="https://github.com/Shahbaz-Bashir"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
@@ -71,7 +73,7 @@ export default function Contact() {
                       GitHub Profile
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/mfahadjbr/"
+                      href="https://www.linkedin.com/in/shahbaz-bashir-63149231b/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"

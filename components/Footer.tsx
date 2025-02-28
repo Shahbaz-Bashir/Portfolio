@@ -50,7 +50,7 @@ const Footer = () => {
                 <Github className="h-6 w-6" />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/mfahadjbr/"
+                href="https://www.linkedin.com/in/shahbaz-bashir-63149231b/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.2 }}

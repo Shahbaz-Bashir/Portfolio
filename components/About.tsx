@@ -63,7 +63,7 @@ export default function About() {
 
           <motion.div variants={itemVariants} className="mb-12">
             <p className="text-lg leading-relaxed mb-6">
-              Hello! I'm Muhammad Fahad Jabbar, a passionate Full Stack
+              Hello! I'm Shahbaz Bashir, a passionate Full Stack
               Developer with over 1 years of experience in creating robust and
               scalable web applications. My journey in the world of programming
               started when I was in college, and since then, I've been
